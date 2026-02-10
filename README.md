@@ -1,5 +1,5 @@
 in thow file have to chaneg ip 1.env 2 frontend/src/App.jsx
-copy this repo and do 
+copy this repo and do /
 apt updat -y 
 apt install docker.io -y
 apt install docker-compose -y
